@@ -1,5 +1,5 @@
 # simple-calculator
-Developed web-based simple calcuator.
+Developed a web-based simple calcuator.
 
 Tech Stack:
 * HTML
